@@ -48,7 +48,7 @@ sub init {
 
 This source is in Github:
 
-	http://github.com/briandfoy/
+	https://github.com/briandfoy/module-release-github-workflows
 
 =head1 AUTHOR
 
